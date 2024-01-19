@@ -1,0 +1,7 @@
+D:\Sharp_Developers\learning\CSharpProject\CSharpProject\bin\Debug\CSharpProject.exe.config
+D:\Sharp_Developers\learning\CSharpProject\CSharpProject\bin\Debug\CSharpProject.exe
+D:\Sharp_Developers\learning\CSharpProject\CSharpProject\bin\Debug\CSharpProject.pdb
+D:\Sharp_Developers\learning\CSharpProject\CSharpProject\obj\Debug\CSharpProject.csproj.AssemblyReference.cache
+D:\Sharp_Developers\learning\CSharpProject\CSharpProject\obj\Debug\CSharpProject.csproj.CoreCompileInputs.cache
+D:\Sharp_Developers\learning\CSharpProject\CSharpProject\obj\Debug\CSharpProject.exe
+D:\Sharp_Developers\learning\CSharpProject\CSharpProject\obj\Debug\CSharpProject.pdb
